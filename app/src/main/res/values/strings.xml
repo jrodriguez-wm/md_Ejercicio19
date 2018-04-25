@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MD_ResponsiveLogin</string>
+    <string name="app_name">MD_19_ResponsiveLogin</string>
     <string name="username">UserName</string>
     <string name="password">Password</string>
     <string name="log_in">Log In</string>
